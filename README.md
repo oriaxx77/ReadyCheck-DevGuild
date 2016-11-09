@@ -20,6 +20,13 @@ As a user I would like to approve all my participation in ready checks in order 
 
 ### Initiate Ready Check &lt;User Story&gt;
 
+As a user I would like to initiate ready check in a group to see if we can start the activity.
+
 ### Response to a Ready Check &lt;User Story&gt;
 
+As a user I would like to participate in ready checks with my answers.
+
 ### Draw conclusion &lt;User Story&gt;
+
+As a ready check initiator I would like to draw a conclusion based on the ready check answers and give a go/no go
+answer to the group.
